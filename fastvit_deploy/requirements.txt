@@ -6,3 +6,7 @@ uvicorn
 python-multipart
 pillow
 streamlit
+pytorch-grad-cam
+python-jose
+passlib[bcrypt]
+requests
