@@ -29,5 +29,3 @@ python scripts/download_covidxct.py
 
 The script uses `kagglehub` and copies the cached download into the repository. Ensure you are authenticated with Kaggle and have the package installed (`pip install kagglehub`).
  
-EOF
-)
